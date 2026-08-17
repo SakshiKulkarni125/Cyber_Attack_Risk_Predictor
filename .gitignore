@@ -1,0 +1,21 @@
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+#Virtule environment
+venv/
+.venv/
+
+#Environment variables / secrets
+.env
+
+#IdE
+.vscode/
+
+#OS
+.DS_Store
+Thumbs.db
+
+#Logs
+*.log
